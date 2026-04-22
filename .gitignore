@@ -1,0 +1,25 @@
+# Data
+data/
+*.tif
+*.tiff
+*.h5
+*.hdf5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Logs
+*.log
+nohup.out
+
+# Models
+experiments/
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db

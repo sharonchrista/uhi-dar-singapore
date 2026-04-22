@@ -1,0 +1,19 @@
+class_idx,class,mean_LST,city
+6,built,34.956269491993716,Dar es Salaam
+4,crops,33.08837102420488,Dar es Salaam
+7,bare,32.95358050403735,Dar es Salaam
+2,grass,32.126036185796146,Dar es Salaam
+5,shrub_and_scrub,31.929558356764765,Dar es Salaam
+1,trees,31.700071057859905,Dar es Salaam
+3,flooded_vegetation,30.758974013319257,Dar es Salaam
+8,snow_and_ice,30.60537216928574,Dar es Salaam
+0,water,30.5132019588072,Dar es Salaam
+6,built,41.67785939237352,Singapore
+7,bare,39.977747206278025,Singapore
+5,shrub_and_scrub,39.7672549488466,Singapore
+4,crops,39.716876040478745,Singapore
+2,grass,39.046099969529486,Singapore
+8,snow_and_ice,37.567488557886165,Singapore
+1,trees,34.60270319878632,Singapore
+3,flooded_vegetation,33.30217708573004,Singapore
+0,water,32.69707868122315,Singapore

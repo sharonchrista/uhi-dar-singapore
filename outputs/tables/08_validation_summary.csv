@@ -1,0 +1,2 @@
+n_stations,pearson_r,r_squared,p_value,rmse_C,mean_bias_LST_minus_SAT_C,regression_slope,regression_intercept,year,data_source
+9,0.16400565840646888,0.02689785598933936,0.6732890860657398,10.747647212745612,10.556718170519162,1.5026774942079613,-4.697939820002659,2024,NEA Singapore via data.gov.sg API
