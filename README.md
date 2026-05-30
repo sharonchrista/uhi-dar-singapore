@@ -371,7 +371,6 @@ This project was developed as part of the **Women + Girls in GIS Mentorship Prog
 
 | Member | Role | City focus |
 |---|---|---|
-| Sharon | LULC maps (2020 & 2025) | Dar es Salaam |
 | Monalisa | LST maps (2020 & 2025) | Both cities |
 | Aulia | LULC maps (2020 & 2025) | Singapore |
 | Christa | Extended analysis (notebooks 03–08) | Both cities |
